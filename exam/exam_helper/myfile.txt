@@ -1,0 +1,4 @@
+This is a simple file
+Some words
+Other words and sentences
+FLAG
